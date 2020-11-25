@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.exe.config
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.exe
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\bin\Debug\BirKelimeBirİşlem.pdb
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.Form1.resources
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.Properties.Resources.resources
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.exe
+C:\Users\Eren\source\repos\BirKelimeBirİşlem\obj\Debug\BirKelimeBirİşlem.pdb
